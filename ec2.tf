@@ -3,8 +3,7 @@
   instance_type = "t2.micro"
 
   tags = {
-    Name = "Test-From-TF"
+    Name = "Test-From-TF-2"
   }
 }
 
-//test push
